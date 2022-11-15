@@ -1,3 +1,4 @@
+```
 c = str(input("Вы хотите перевести Цельсия в Фаренгейты? (yes or no)\n"))
 #c in f
 def ira():
@@ -16,3 +17,4 @@ if c == "yes" :
     ira()
 else: 
     ura()
+```
